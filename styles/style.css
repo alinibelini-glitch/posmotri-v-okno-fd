@@ -128,7 +128,7 @@ ol {
 .content__video-card {
   display: flex;
   flex-direction: row;
-  align-items: start; 
+  align-items: start;
 }
 
 .content__video-card-thumbnail {
